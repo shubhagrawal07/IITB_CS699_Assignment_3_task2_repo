@@ -1,2 +1,2 @@
 Adding test data in line 1
-Adding test data in line 2
+Adding different line to generate merge conflict
