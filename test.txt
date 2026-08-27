@@ -1,2 +1,4 @@
 Adding test data in line 1
-Adding test data in line 2 (this line is unchanged in main branch)
+Adding different line to generate merge conflict
+
+// Accepted incoming changes from the feature branch to resolve merge conflict
